@@ -100,12 +100,13 @@ export QBC13_API_KEY="your-key-here"
 - Hirad
 - Arshia
 - Pourya
+- Mohammad Hossein
 
 ## Branching Strategy
 
 - `main` — stable, production-ready code
 - `develop` — integration branch for ongoing work
-- `nima`, `amin`, `hirad`, `arshia`, `pouria` — individual feature branches, branched
+- `nima`, `amin`, `hirad`, `arshia`, `pourya`, `Mohammad Hossein` — individual feature branches, branched
   off `develop`, merged back via PR
 
 ## License
