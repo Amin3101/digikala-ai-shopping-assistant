@@ -99,7 +99,7 @@ export QBC13_API_KEY="your-key-here"
 - Amin
 - Hirad
 - Arshia
-- Pouria
+- Pourya
 
 ## Branching Strategy
 
